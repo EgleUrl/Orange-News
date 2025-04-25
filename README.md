@@ -4,7 +4,8 @@ A modern Android app built with **Kotlin** and **Jetpack Compose** to fetch and 
 It features on-demand article summarization powered by OpenAI, bookmarking for offline reading, and category-based browsing.
 Article are fetched using GNews API.
 
-![image](https://github.com/user-attachments/assets/770a79bf-77bd-4cfb-89a7-032e27ddcac2)
+![image](https://github.com/user-attachments/assets/d490ca3e-4961-4d29-bbb5-e18e8f52b8df)
+
 
 
 ---
@@ -53,6 +54,17 @@ object Constant {
 | Jetpack Compose     | Declarative UI framework                         |
 | Navigation Compose  | In-app navigation between screens                |
 --------------------------------------------------------------------------
+## Design solutions
+
+### Wireframes
+
+![image](https://github.com/user-attachments/assets/4537d737-5e99-41d8-bb16-3f10b560132e)
+
+### Moodboard
+
+![image](https://github.com/user-attachments/assets/e455128e-60bf-460a-ae02-55bd8a71bb0f)
+
+
 ## Known Issues and Limitations
 
 ### API Keys Required
